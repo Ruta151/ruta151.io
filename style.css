@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background: linear-gradient(to bottom, #FBF9E8, #816B58);
+    background: linear-gradient(to bottom, #bbb9b9, #ffa04d);
     text-align: center;
 }
 .header {
@@ -9,31 +9,75 @@ body {
     align-items: center;
     justify-content: center;
     gap: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .header img {
-    width: 300px;
+    width: 350px;
     height: auto;
     border-radius: 30px;
+}
+#h-lista-productos {
+    margin-top: 30px;
+    color: #0f1316; /* Cambia el color del texto */
+    font-size: 32px; /* Cambia el tamaño del texto */
+    font-family: 'Arial', sans-serif; /* Cambia la fuente */
+    text-align: center; /* Centra el texto */
+    margin-bottom: 20px; /* Añade espacio debajo del título */
+    font-weight: bold; /* Negrita */
 }
 .product-container {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
+    margin-bottom: 30px;
 }
+
+
 .product {
-    background: #fdfcf9;
+    background: #f8f7f4;
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     width: 300px;
     text-align: center;
 }
+
 .product img {
-    width: 100%;
+    width: 250px;  /* Ajusta al tamaño deseado */
+    height: 250px; /* Ajusta al tamaño deseado */
+    /*object-fit: cover;*/
+    /* object-fit: cover; /*Recorta y ajusta la imagen sin deformarla */
     border-radius: 10px;
+    display: block;
+    margin: 0 auto;
 }
+
+.product-status {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.disponible {
+    background-color: #28a745;
+    color: white;
+}
+
+.agotado {
+    background-color: #dc3545;
+    color: white;
+}
+
+.reserva {
+    background-color: #ffc107;
+    color: black;
+}
+
 .product p strong {
     color: #ff0000; /* Rojo para el precio */
     font-weight: bold; /* Negrita */
@@ -41,12 +85,13 @@ body {
 }
 
 .product p soft {
-    color: #160d00; /* Rojo para el precio */
-    font-weight: bold; /* Negrita */
+    color: #160d00;
+    font-size: 20px; /* Cambia el tamaño del texto */
+    font-weight: bold;
 }
 
 .contact-panel {
-    background-color: #f8f8f8; /* Fondo suave */
+    background-color: #f8f7f4; /* Fondo suave */
     padding: 20px;
     margin-top: 20px;
     text-align: center;
@@ -63,4 +108,9 @@ body {
 .contact-panel p {
     margin: 5px 0;
     color: #555;
+}
+
+.social-icon {
+    width: 40px;
+    height: 40px;
 }
