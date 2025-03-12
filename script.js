@@ -6,8 +6,8 @@ const productsList = [
     { name: "Rivales Destinados ETB", description: "<br>🔵 Coleccionistas <br>🔴 Jugadores <br>🟡 Cazadores de cartas caras.", languaje: "Español", price: "69.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
     { name: "Rivales Destinados Booster Box", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "215.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
     { name: "Rivales Destinados 3-Pack Blister", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "19.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
-{ name: "Caja Premium EX Iono's Bellibolt", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "59.95 €", image: "images/Premiumcollection.png", status: "RESERVA"},
-{ name: "Caja EX Hop's Zacian", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "34.95 €", image: "images/Hopsexbox.png", status: "RESERVA"},
+{ name: "Caja premium Junio", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "59.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
+{ name: "Caja EX Junio", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "34.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
 ]
 // Salto de línea --> <br>
 const icons = [
