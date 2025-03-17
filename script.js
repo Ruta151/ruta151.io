@@ -8,7 +8,7 @@ const productsList = [
     { name: "Rivales Destinados 3-Pack Blister", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "19.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
 { name: "Caja premium Junio", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "59.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
 { name: "Caja EX Junio", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "34.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
-{ name: "Grand Adventure Collection", description: "<br>🔵 Coleccionistas.", languaje: "Inglés", price: "44,95 €", image: "images/Grand adventure.jpg", status: "RESERVA"},
+{ name: "Grand Adventure Collection", description: "<br>🔵 Coleccionistas.", languaje: "Inglés", price: "44,95 €", image: "images/Grand adventure.jpg", status: "DISPONIBLE"},
 ]
 // Salto de línea --> <br>
 const icons = [
