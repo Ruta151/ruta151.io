@@ -1,14 +1,15 @@
 const productsList = [ 
     { name: "Journey Together ETB", description: "<br>🔵Coleccionistas <br>🔴Jugadores  <br>🟡Cazadores de cartas caras", languaje: "Inglés", price: "69.95 €", image: "images/Journey.jpg", status: "AGOTADO"},
-    { name: "Journey Together Booster Box de 36 sobres", description: "<br>🟡Cazadores de cartas caras <br>🔵Coleccionistas.", languaje: "Inglés", price: "215.95 €", image: "images/Journeybb.png", status: "AGOTADO"},
+    { name: "Journey Together Booster Box de 36 sobres", description: "<br>🟡Cazadores de cartas cartas <br>🔵Coleccionistas.", languaje: "Inglés", price: "215.95 €", image: "images/Journeybb.png", status: "AGOTADO"},
     { name: "Evoluciones Prismáticas Colección Super Premium", description: "<br>🔵 Coleccionistas", languaje: "Español", price: "139.95 €", image: "images/Ultrapremium.jpg", status: "AGOTADO"},
     { name: "Journey Together 3-Pack Blister", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Inglés", price: "19.95 €", image: "images/Blister.png", status: "AGOTADO"},
     { name: "Rivales Destinados ETB", description: "<br>🔵 Coleccionistas <br>🔴 Jugadores <br>🟡 Cazadores de cartas caras.", languaje: "Español", price: "69.95 €", image: "images/Destined Rivals.jpeg", status: "RESERVA"},
-    { name: "Rivales Destinados Booster Box", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "215.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
-    { name: "Rivales Destinados 3-Pack Blister", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "19.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
-{ name: "Caja premium Junio", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "59.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
+    { name: "Rivales Destinados Booster Box", description: "<br>🟡 Cazadores de cartas cartas <br>🔵 Coleccionistas.", languaje: "Español", price: "215.95 €", image: "images/Booster box rivales destinados.jpeg", status: "RESERVA"},
+    { name: "Rivales Destinados 3-Pack Blister", description: "<br>🟡 Cazadores de cartas cartas <br>🔵 Coleccionistas.", languaje: "Español", price: "19.95 €", image: "images/Blisters rivales destinados.png", status: "RESERVA"},
+{ name: "Caja premium Junio", description: "<br>🟡 Cazadores de cartas <br>🔵 Coleccionistas.", languaje: "Español", price: "59.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
 { name: "Caja EX Junio", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "34.95 €", image: "images/Sin imagen español.jpg", status: "RESERVA"},
 { name: "Grand Adventure Collection", description: "<br>🔵 Coleccionistas.", languaje: "Inglés", price: "44,95 €", image: "images/Grand adventure.jpg", status: "DISPONIBLE"},
+{ name: "Sobres emblistados Rivales Destinados", description: "<br>🟡 Cazadores de cartas.", languaje: "Español", price: "6,95 €", image: "images/Sobres emblistados rivales destiandos.png", status: "RESERVA"}
 ]
 // Salto de línea --> <br>
 const icons = [
