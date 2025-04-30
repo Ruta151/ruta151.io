@@ -1,5 +1,5 @@
 const productsList = [ 
-    { name: "Journey Together ETB", description: "<br>🔵Coleccionistas <br>🔴Jugadores  <br>🟡Cazadores de cartas caras", languaje: "Inglés", price: "69.95 €", image: "images/Journey.jpg", status: "AGOTADO"},
+    
     { name: "Journey Together Booster Box de 36 sobres", description: "<br>🟡Cazadores de cartas cartas <br>🔵Coleccionistas.", languaje: "Inglés", price: "215.95 €", image: "images/Journeybb.png", status: "AGOTADO"},
     { name: "Evoluciones Prismáticas Colección Super Premium", description: "<br>🔵 Coleccionistas", languaje: "Español", price: "139.95 €", image: "images/Ultrapremium.jpg", status: "AGOTADO"},
     { name: "Journey Together 3-Pack Blister", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Inglés", price: "19.95 €", image: "images/Blister.png", status: "AGOTADO"},
@@ -7,7 +7,7 @@ const productsList = [
     { name: "Rivales Predestinados Booster Box", description: "<br>🟡 Cazadores de cartas cartas <br>🔵 Coleccionistas.", languaje: "Español", price: "215.95 €", image: "images/Booster box rivales destiandos castellano.jpg", status: "RESERVA"},
     { name: "3-Pack Blister Rivales Predestinados", description: "<br>🟡 Cazadores de cartas cartas <br>🔵 Coleccionistas.", languaje: "Español", price: "19.95 €", image: "images/Blister rivales destinados castellano.jpg", status: "RESERVA"},
 { name: "Cynthia Premium EX Box", description: "<br>🟡 Cazadores de cartas <br>🔵 Coleccionistas.", languaje: "Español", price: "59.95 €", image: "images/Cynthia Premium EX Box.png", status: "RESERVA"},
-{ name: "Team Rocket Mewtwo EX Box", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Español", price: "34.95 €", image: "images/Team Rocket Mewtwo EX Box.png", status: "AGOTADO"},
+{ name: "Charizard ex Super Premium Collection", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Inglés", price: "69,95 €", image: "images/Premium collection charizard.jpg", status: "DISPONIBLE"},
 { name: "Grand Adventure Collection", description: "<br>🔵 Coleccionistas.", languaje: "Inglés", price: "44,95 €", image: "images/Grand adventure.jpg", status: "DISPONIBLE"},
 { name: "Sobres emblistados Rivales Predestinados", description: "<br>🟡 Cazadores de cartas.", languaje: "Español", price: "6,95 €", image: "images/Sombres emblistados castellano.jpg", status: "RESERVA"}
 ]
