@@ -9,7 +9,7 @@ const productsList = [
 { name: "Cynthia Premium EX Box", description: "<br>🟡 Cazadores de cartas <br>🔵 Coleccionistas.", languaje: "Español", price: "59.95 €", image: "images/Cynthia Premium EX Box.png", status: "RESERVA"},
 { name: "Charizard ex Super Premium Collection", description: "<br>🟡 Cazadores de cartas caras <br>🔵 Coleccionistas.", languaje: "Inglés", price: "69,95 €", image: "images/Premium collection charizard.jpg", status: "DISPONIBLE"},
 { name: "Grand Adventure Collection", description: "<br>🔵 Coleccionistas.", languaje: "Inglés", price: "39,95 €", image: "images/Grand adventure.jpg", status: "DISPONIBLE"},
-{ name: "Sobres emblistados Rivales Predestinados", description: "<br>🟡 Cazadores de cartas.", languaje: "Español", price: "6,95 €", image: "images/Sombres emblistados castellano.jpg", status: "RESERVA"},
+{ name: "Sobres emblistados Rivales Predestinados", description: "<br>🟡 Cazadores de cartas.", languaje: "Español", price: "5,95 €", image: "images/Sombres emblistados castellano.jpg", status: "RESERVA"},
 { name: "ETB White Flare (Reshiram)", description: "<br>🔵 Coleccionistas 🔴 Jugadores 🟡 Cazadores de cartas.", languaje: "Español", price: "59,99 €", image: "images/ETB Reshiram.png", status: "RESERVA"},
 { name: "ETB Black Bolt (Zekrom)", description: "<br>🔵 Coleccionistas 🔴 Jugadores 🟡 Cazadores de cartas.", languaje: "Español", price: "59,99 €", image: "images/ETB Zekrom.png", status: "RESERVA"},
 { name: "Booster Bundle White Flare (Reshiram) ", description: "<br>🟡 Cazadores de cartas 🔵 Coleccionistas.", languaje: "Español", price: "34,99 €", image: "images/Booster bundle reshiram.jpg", status: "RESERVA"},
